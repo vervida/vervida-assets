@@ -23,9 +23,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.12374369"
-     inkscape:cx="2042.6431"
-     inkscape:cy="1125.8269"
+     inkscape:zoom="0.087500001"
+     inkscape:cx="4872.7034"
+     inkscape:cy="1790.3262"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -61,9 +61,9 @@
        inkscape:export-xdpi="364.44"
        inkscape:export-ydpi="364.44" />
     <g
-       inkscape:export-ydpi="364.44"
-       inkscape:export-xdpi="364.44"
-       inkscape:export-filename="/home/ss/repo/vvd-assets/dist/vvd_logo_black_white_bg_1080p.png"
+       inkscape:export-ydpi="86.160004"
+       inkscape:export-xdpi="86.160004"
+       inkscape:export-filename="/home/ss/repo/argon-dashboard/assets/img/brand/blue.png"
        id="g14456"
        transform="matrix(2.3795046,0,0,2.3795046,-638.4277,-824.58767)">
       <rect
@@ -903,9 +903,9 @@
       </g>
     </g>
     <text
-       inkscape:export-ydpi="364.44"
-       inkscape:export-xdpi="364.44"
-       inkscape:export-filename="/home/ss/repo/vvd-assets/dist/vvd_logo_black_white_bg_1080p.png"
+       inkscape:export-ydpi="86.160004"
+       inkscape:export-xdpi="86.160004"
+       inkscape:export-filename="/home/ss/repo/argon-dashboard/assets/img/brand/blue.png"
        id="text1079"
        y="59.031509"
        x="79.78759"
@@ -927,9 +927,9 @@
        id="rect1411"
        style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.251;stop-color:#000000" />
     <g
-       inkscape:export-ydpi="364.44"
-       inkscape:export-xdpi="364.44"
-       inkscape:export-filename="/home/ss/repo/vvd-assets/dist/vvd_logo_white_black_bg_1080p.png"
+       inkscape:export-ydpi="86.160004"
+       inkscape:export-xdpi="86.160004"
+       inkscape:export-filename="/home/ss/repo/argon-dashboard/assets/img/brand/white.png"
        transform="matrix(2.3795046,0,0,2.3795046,-638.4277,-747.4938)"
        id="g14456-9">
       <rect
@@ -1769,9 +1769,9 @@
       </g>
     </g>
     <text
-       inkscape:export-ydpi="364.44"
-       inkscape:export-xdpi="364.44"
-       inkscape:export-filename="/home/ss/repo/vvd-assets/dist/vvd_logo_white_black_bg_1080p.png"
+       inkscape:export-ydpi="86.160004"
+       inkscape:export-xdpi="86.160004"
+       inkscape:export-filename="/home/ss/repo/argon-dashboard/assets/img/brand/white.png"
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32.5959px;line-height:1.25;font-family:Pacifico;-inkscape-font-specification:Pacifico;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke-width:0.814901"
        x="79.787575"
@@ -1785,7 +1785,7 @@
     <g
        inkscape:export-ydpi="346.14001"
        inkscape:export-xdpi="346.14001"
-       inkscape:export-filename="/home/ss/repo/vvd-assets/dist/vvd_logo_raw_1080p.png"
+       inkscape:export-filename="/home/ss/repo/argon-dashboard/assets/img/brand/favicon.png"
        transform="matrix(4.442357,0,0,4.442357,-1847.3967,-1641.071)"
        id="g14456-7">
       <rect
